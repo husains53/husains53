@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[6202],{6202:(O,n,a)=>{a.r(n),a.d(n,{OrderDetailPageModule:()=>u});var r=a(9808),E=a(8962),P=a(3075),_=a(8226),o=a(5e3);let u=(()=>{class l{}return l.\u0275fac=function(M){return new(M||l)},l.\u0275mod=o.oAB({type:l}),l.\u0275inj=o.cJS({imports:[[r.ez,P.u5,E.Pc,_.q]]}),l})()}}]);
